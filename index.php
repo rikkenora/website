@@ -33,7 +33,7 @@ include "includes/navigation.php";
 ?>
 
 <div class="main">
-    <div>Forside</div>
+    <div>Forsiden</div>
 </div>
 
 <?php
