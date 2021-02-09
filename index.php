@@ -27,18 +27,7 @@
 <!-- i <body> har man alt indhold på siden som brugeren kan se -->
 <body>
 
-
-<?php
-include "includes/navigation.php";
-?>
-
-<div class="main">
-    <div>Forsiden</div>
-</div>
-
-<?php
-include "includes/footer.php";
-?>
+<!-- Her skal sidens indhold ligge -->
 
 </body>
 </html>
